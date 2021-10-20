@@ -1,0 +1,12 @@
+#UNO project configuration file
+#Wed Oct 20 10:42:34 CEST 2021
+project.prefix=org.libreoffice.example
+project.ooo=LibreOffice 7.2
+project.language=Java
+regclassname=org.libreoffice.example.comp.RegistrationHandler
+project.idl=/idl
+project.implementation=comp
+project.build=build
+project.sdk=7.2.1.2
+project.srcdir=/source
+javaversion=java5
