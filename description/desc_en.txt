@@ -1,1 +1,1 @@
-LibreOffice Starter Project
+LibreOffice Sidebar Extension
