@@ -26,10 +26,6 @@ import java.awt.SystemColor;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-import org.libreoffice.example.ui.GuiFactory;
-import org.libreoffice.example.ui.layout.Layout;
-import org.libreoffice.example.ui.layout.VerticalLayout;
-
 import com.sun.star.accessibility.XAccessible;
 import com.sun.star.awt.Rectangle;
 import com.sun.star.awt.WindowEvent;
@@ -54,6 +50,9 @@ import de.muenchen.allg.afid.UNO;
 import de.muenchen.allg.afid.UnoHelperException;
 import de.muenchen.allg.dialog.adapter.AbstractActionListener;
 import de.muenchen.allg.dialog.adapter.AbstractWindowListener;
+import de.muenchen.allg.ui.GuiFactory;
+import de.muenchen.allg.ui.layout.Layout;
+import de.muenchen.allg.ui.layout.VerticalLayout;
 
 /**
  * Create the window for the sidebar panel
