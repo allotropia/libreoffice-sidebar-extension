@@ -7,12 +7,15 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="build"/>
-	<classpathentry kind="lib" path="lib/unohelper-4.0.3-SNAPSHOT-jar-with-dependencies.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.libreoffice.ide.eclipse.java.OOO_CONTAINER/LibreOffice 7.2"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="lib/guava-29.0-jre.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.15.3.jar"/>
+	<classpathentry kind="lib" path="lib/unohelper-5.0.3.jar"/>
+	<classpathentry kind="con" path="org.libreoffice.ide.eclipse.java.OOO_CONTAINER/LibreOffice 24.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

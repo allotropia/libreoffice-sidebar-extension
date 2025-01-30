@@ -23,7 +23,7 @@ package org.libreoffice.example.sidebar;
 import com.sun.star.awt.XWindow;
 import com.sun.star.uno.XComponentContext;
 
-import de.muenchen.allg.dialog.adapter.AbstractSidebarPanel;
+import org.libreoffice.ext.unohelper.dialog.adapter.AbstractSidebarPanel;
 
 /**
  * Sample sidebar panel
