@@ -46,13 +46,13 @@ import com.sun.star.ui.XToolPanel;
 import com.sun.star.uno.UnoRuntime;
 import com.sun.star.uno.XComponentContext;
 
-import de.muenchen.allg.afid.UNO;
-import de.muenchen.allg.afid.UnoHelperException;
-import de.muenchen.allg.dialog.adapter.AbstractActionListener;
-import de.muenchen.allg.dialog.adapter.AbstractWindowListener;
-import de.muenchen.allg.ui.GuiFactory;
-import de.muenchen.allg.ui.layout.Layout;
-import de.muenchen.allg.ui.layout.VerticalLayout;
+import org.libreoffice.ext.unohelper.common.UNO;
+import org.libreoffice.ext.unohelper.common.UnoHelperException;
+import org.libreoffice.ext.unohelper.dialog.adapter.AbstractActionListener;
+import org.libreoffice.ext.unohelper.dialog.adapter.AbstractWindowListener;
+import org.libreoffice.ext.unohelper.ui.GuiFactory;
+import org.libreoffice.ext.unohelper.ui.layout.Layout;
+import org.libreoffice.ext.unohelper.ui.layout.VerticalLayout;
 
 /**
  * Create the window for the sidebar panel
